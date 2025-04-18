@@ -23,7 +23,7 @@ body:
     attributes:
       label: Summary 💡
       description: Describe how it should work.
-
+ description: Please confirm and check all the following options updated
   - type: textarea
     attributes:
       label: Examples 🌈
